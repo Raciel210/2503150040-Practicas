@@ -1,0 +1,28 @@
+ body {
+            background-color: lightblue;
+        }
+
+	h1 {
+            color: blue;
+ 	    border: 5px;
+	}
+	
+	label {
+            display: block;
+            margin-top: 10px;
+        }
+
+        input {
+            display: block;
+            margin-bottom: 15px;
+        }
+	
+	#labelNombre {
+		color:black;
+	}
+
+	.classEdad {
+		color:rgb(243, 108, 5);
+	}
+
+    

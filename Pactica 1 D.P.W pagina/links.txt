@@ -1,0 +1,4 @@
+<p>
+el propósito principal de nuestro proyecto es savaguardar al ciudadano mediante una aplicación web o móvil la cual ayude a emitir ruidos en su teléfono y a su vez poder alertar a las autoridades mediante un botón de pánico el cual esta implementado en la aplicacion 
+
+<p>
